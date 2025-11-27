@@ -1,6 +1,6 @@
 <div style="background-color: white; color: black;">
   <h1 align="center">Merhaba 👋, Ben Hasan Emir Çağlar</h1>
-  <h3 align="center">Junior Front-end Geliştirici</h3>
+  <h3 align="center">Frontend Developer</h3>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=hcaglar32&label=Profile%20views&color=0e75b6&style=flat" alt="hcaglar32" />
